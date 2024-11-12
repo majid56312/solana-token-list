@@ -1,0 +1,12 @@
+{
+    "chainId": 101,
+    "address": "HxHBxp69ZJLNvbdJ7tGvhSgEcWJRTmNCVPBr6Damgvn7",
+    "symbol": "USDT",
+    "name": "Tether",
+    "decimals": 9,
+    "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png",
+    "tags": [
+      "stablecoin"
+    ]
+  }
+  
