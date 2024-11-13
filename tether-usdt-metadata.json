@@ -1,0 +1,7 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "description": "A stablecoin pegged to the US Dollar",
+  "image": "https://example.com/usdt-logo.png",
+  "decimals": 6
+}
