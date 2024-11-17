@@ -1,0 +1,7 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "description": "A stablecoin pegged to the US Dollar",
+  "image": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png",
+  "decimals": 9
+}
