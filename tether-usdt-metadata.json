@@ -3,5 +3,7 @@
   "symbol": "USDT",
   "description": "A stablecoin pegged to the US Dollar",
   "image": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png",
+  "price": 1.00,
   "decimals": 9
 }
+
