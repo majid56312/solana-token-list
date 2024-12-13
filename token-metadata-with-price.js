@@ -35,7 +35,7 @@ async function main() {
       name: "Tether USD",
       symbol: "USDT",
       description: "Tether USD (USDT) is a stablecoin pegged to the US Dollar",
-      image: "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.png",
+      image: "https://cryptologos.cc/logos/tether-usdt-logo.png",
       external_url: "https://tether.to",
       price: {
         value: 1.00,
